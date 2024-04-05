@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=FFFFFF&center=true&vCenter=true&random=true&width=435&lines=Hi+there%2C+I'm+Daniel+Rrapi+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 
-### Welcome on my Github! Here you can view all my public repositories, feel free to submit any feedback ✌️
+### Welcome to my Github! Here you can view all my public repositories, feel free to submit any feedback ✌️
 
 <br>
 
