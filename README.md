@@ -1,9 +1,4 @@
 <p align="center">
-    <div style="border-radius: 5rem;">
-        <img src="./assets/imgs/purple-banner-github.png">
-    </div>
-</p>
-<p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=FFFFFF&center=true&vCenter=true&random=true&width=435&lines=Hi+there%2C+I'm+Daniel+Rrapi+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 
@@ -31,8 +26,6 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
-
 
 ---
 
